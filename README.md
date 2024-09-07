@@ -1,5 +1,5 @@
-# AsaApi.Plugins.Releases.Template
-ARK:SA ServerAPI Plugin for &lt;plugin> related commands
+# AsaApi.Plugins.StructureUtilities
+ARK:SA ServerAPI Plugin for Structures related commands
 
 # Requirements
 - ServerAPI [Download/Install](https://github.com/ArkServerApi/AsaApi/releases)
@@ -18,7 +18,7 @@ ARK:SA ServerAPI Plugin for &lt;plugin> related commands
 - Console Log (No Message received)  Doesn't affect anything - Still waiting for ServerAPI update 
 
 # RELOAD COMMANDS​
-Both RCON and Console command: `plugin.Reload`
+Both RCON and Console command: `StructureUtilities.Reload`
 
 
 # Support
